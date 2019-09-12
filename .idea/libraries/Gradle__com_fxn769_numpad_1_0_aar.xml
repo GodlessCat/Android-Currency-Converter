@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fxn769:numpad:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/numpad-1.0.aar/cf926bb59472b9efa416dda7f72fd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/numpad-1.0.aar/cf926bb59472b9efa416dda7f72fd1f8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fxn769/numpad/1.0/29092ed8070def5bb4084470b99eebf8bab37fe3/numpad-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

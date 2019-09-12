@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.davidmigloz:number-keyboard:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/number-keyboard-3.0.0.aar/fc9a8280012645b633f8dcfc336594e0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/number-keyboard-3.0.0.aar/fc9a8280012645b633f8dcfc336594e0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmigloz/number-keyboard/3.0.0/cdb5cb4fc554a8d23c062c4c00188f394ce7999a/number-keyboard-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
